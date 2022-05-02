@@ -9,7 +9,7 @@
 
 ## Installation
 1. download the dataset (3RScan).
-2. refer [readme](https://github.com/facebookresearch/votenet#readme) of origin VoteNet repo to install all dependencies.
+2. refer [readme](https://github.com/facebookresearch/votenet#readme) of original VoteNet repo to install all dependencies.
 
 ## Acknowledgement
 
